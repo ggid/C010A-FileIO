@@ -1,0 +1,11 @@
+commit 899ba4301e1087ad78ab8f42f527d5fb5ee15589
+Author: ggid <gretagideon@gmail.com>
+Date:   Thu Sep 22 20:34:30 2022 -0600
+
+    added gitignore file
+
+commit de470b466c13a9efda08de208b98a93bf802b043
+Author: ggid <gretagideon@gmail.com>
+Date:   Thu Sep 22 20:31:41 2022 -0600
+
+    adding completed project
