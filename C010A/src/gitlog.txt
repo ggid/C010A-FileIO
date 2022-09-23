@@ -1,3 +1,5 @@
+I, Carissa Lee and Greta Gideon, certify that I participated equitably in the creation of assignment C010A, dated 2022
+
 commit 899ba4301e1087ad78ab8f42f527d5fb5ee15589
 Author: ggid <gretagideon@gmail.com>
 Date:   Thu Sep 22 20:34:30 2022 -0600
